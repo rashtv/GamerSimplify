@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+A social network for gamer people only, where they can do a lot of things together or alone. With easy access for all of the user’s game library and built- in game catalog that is equipped with purchase price and place suggestions to buy the game product. 
 
 
+This is the base GamerSimplify Application. You can find out more info about GamerSimplify, as well as basic GamerSimplify usage documentation at [ReadTheDoc](https://gamersimplify.readthedocs.io/en/latest/)
+
+You can find the source code for GamerSimplify at GitHub:
+[GamerSimplify][GamerSimplify] /
+[GamerSimplify](https://github.com/rashtv/GamerSimplify)
+
+
+[GamerSimplify]: https://github.com/rashtv/GamerSimplify
 [jekyll-organization]: https://github.com/jekyll

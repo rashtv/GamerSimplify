@@ -10,9 +10,9 @@ layout: default
   {{ content }}
 
   <div class="d-grid gap-2 d-md-block" style="margin: 50px 0px;">
-    <button class="btn" style="background-color: rgb(121, 122, 122); width: 150px;height: 50px; font-size: 20px; border-radius: 5px; border-style: none;", type="button"><a href="https://github.com/rashtv/GamerSimplify" target="_blank" style="text-decoration: none; color:white ;">Download</a></button>
+    <button class="btn" style="background-color: rgb(121, 122, 122); width: 150px;height: 50px; font-size: 20px; border-radius: 5px; border-style: none;", type="button"><a href="https://github.com/rashtv/GamerSimplify" target="_blank" style="text-decoration: none; color:white ;">Download &#8595</a></button>
 
-    <button class="btn" style="background-color: rgb(8, 85, 250); width: 200px;height: 50px; font-size: 20px; border-radius: 5px; border-style: none;color: white;", type="button"><a href="https://gamersimplify.readthedocs.io/en/latest/" target="_blank" style="text-decoration: none; color:white ;">Documentation</a></button>
+    <button class="btn" style="background-color: rgb(8, 85, 250); width: 200px;height: 50px; font-size: 20px; border-radius: 5px; border-style: none;color: white;", type="button"><a href="https://gamersimplify.readthedocs.io/en/latest/" target="_blank" style="text-decoration: none; color:white ;">Documentation &#8594</a></button>
   </div>
 
   {% if site.paginate %}
@@ -21,7 +21,8 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-
+  <hr class="diveder" style="border-top: 1px solid;
+  border-radius: 5px">
 
   <h1><strong>Latest News</strong></h1>
   {%- if posts.size > 0 -%}

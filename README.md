@@ -7,5 +7,5 @@ GamerSimplify also equiped with a feature to suggest the price and in which gami
 
 GamerSimplify is planned to be build mainly based on Python and can be used by Windows, Mac, and Linux OS
 
-#Full documentation:
+# Full documentation:
 https://gamersimplify.readthedocs.io/en/latest/

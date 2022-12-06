@@ -22,7 +22,7 @@ title: GamerSimplify
 email: gamersimplify@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   A social network for gamer people only, where they can do a lot of things together or alone.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/GamerSimplify" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GamerSimplify
 github_username:  GamerSimplify

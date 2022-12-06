@@ -28,7 +28,8 @@ twitter_username: GamerSimplify
 github_username:  GamerSimplify
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima 
 plugins:
   - jekyll-feed
 

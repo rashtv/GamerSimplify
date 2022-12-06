@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 permalink: /contact-us/
 ---
-<!-- {% include contact-us.html %} -->
+
 <div class="container" style="border-radius: 5px; background-color: #f2f2f2; padding: 20px;">
     <form accept-charset="UTF-8" action="https://getform.io/f/d037d2dd-aaa5-4700-bb0e-73e9dcf2c873" method="POST" enctype="multipart/form-data" target="_blank"> 
     
